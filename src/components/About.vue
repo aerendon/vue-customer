@@ -1,6 +1,6 @@
 <template>
-  <div class="about">
-    ABOUT
+  <div class="about container">
+    <h1 class="page-header">About</h1>
   </div>
 </template>
 
@@ -9,7 +9,6 @@ export default {
   name: 'about',
   data () {
     return {
-      
     }
   }
 }
